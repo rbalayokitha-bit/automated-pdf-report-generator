@@ -1,0 +1,7 @@
+requests
+reportlab
+apscheduler
+
+[dev]
+pytest
+pytest-cov

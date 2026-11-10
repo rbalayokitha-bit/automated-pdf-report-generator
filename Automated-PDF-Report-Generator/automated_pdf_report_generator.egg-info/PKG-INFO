@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: automated-pdf-report-generator
+Version: 1.0.0
+Summary: Automated Python application for fetching data and generating PDF reports.
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+Requires-Dist: reportlab
+Requires-Dist: apscheduler
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: pytest-cov; extra == "dev"
