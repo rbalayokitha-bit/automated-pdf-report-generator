@@ -1,0 +1,1 @@
+# automated-pdf-report-generator is the  Python-based automated PDF report generator that fetches data from REST APIs, processes and analyzes information, generates PDF reports, and supports command-line execution and automated scheduling. Includes unit tests with 100% code coverage.
